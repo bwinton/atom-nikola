@@ -1,0 +1,22 @@
+{
+  "name": "atom-nikola",
+  "main": "./lib/atom-nikola",
+  "version": "0.0.1",
+  "description": "A package to make it easier to write blog posts.",
+  "keywords": [
+    "atom", "blog", "nikola"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-nikola:new-blog-post"
+  },
+  "repository": "https://github.com/bwinton/atom-nikola",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "contributors": [
+    "Blake Winton"
+  ]
+}
